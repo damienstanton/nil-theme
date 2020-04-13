@@ -1,0 +1,21 @@
+{
+    "name": "nil",
+    "displayName": "nil",
+    "description": "A hyperminimalist dark theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nil",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nil-color-theme.json"
+            }
+        ]
+    }
+}
