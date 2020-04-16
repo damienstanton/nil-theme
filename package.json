@@ -1,7 +1,17 @@
 {
     "name": "nil",
-    "displayName": "nil",
-    "description": "A hyperminimalist dark theme",
+    "displayName": "nil - minimalist dark theme",
+    "publisher": "damienstanton",
+    "description": "nil is a minimalist dark theme that uses simple color and style queues to help you focus on your code.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/damienstanton/nil-theme"
+    },
+    "icon": "images/nil_icon.png",
+    "galleryBanner": {
+        "color": "#252526",
+        "theme": "dark"
+    },
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.44.0"
