@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nil",
+                "label": "nil",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nil-color-theme.json"
             }
